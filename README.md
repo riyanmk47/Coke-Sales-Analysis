@@ -1,4 +1,4 @@
-# Coke-sales-analysis
+# Coke-Sales-Analysis
 🚀 Features
 
 Feature 1
